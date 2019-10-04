@@ -12,3 +12,5 @@ require "portlandhike"
 
 require "irb"
 IRB.start(__FILE__)
+
+Portlandhike::CLI.new.run 
