@@ -24,4 +24,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_dependency "nokogiri"
   spec.add_dependency 'cli-ui', '~> 1.3'
+  spec.add_dependency 'thor'
+  spec.add_dependency 'pry'
 end
