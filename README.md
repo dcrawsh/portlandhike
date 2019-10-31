@@ -1,8 +1,6 @@
 # Portlandhike
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/portlandhike`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This is a CLI gem that allows the user to scrape hike information from https://www.oregonhikers.org .  It first allows the user to pick a region, then a hike, and finally to receieve details and a description of the hike.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Use this gem to find the best hike.
 
 ## Development
 
